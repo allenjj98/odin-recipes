@@ -1,0 +1,26 @@
+li {
+    margin-bottom: 8px;
+}
+
+ul {
+    margin-bottom: 40px;
+}
+
+
+.head {
+    margin-left: 15px;
+}
+
+.title {
+    text-align: center;
+}
+
+
+.recipe-image {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-width: 3px;
+}
+
